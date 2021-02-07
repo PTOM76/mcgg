@@ -1,3 +1,4 @@
+1.11.2～
 Translated to English & Updated by Ren232.
 
 <h1> Features </h1>
