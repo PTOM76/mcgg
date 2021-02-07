@@ -106,10 +106,7 @@ if (!empty($_POST['user'])) {
 					
 				<div class="controls">
 					<select name="version" id="version" class="span2">
-						<option value="1.16.5">Spigot 1.16.5</option>
-						<option value="1.15.2">Spigot 1.15.2</option>
-						<option value="1.14.4">Spigot 1.14.4</option>
-						<option value="1.13.2">Spigot 1.13.2</option>
+						<option value="1.14.4">Spigot 1.15.2(spigot-1.14.4.jar)</option>
 						<option value="1.12.2">Spigot 1.12.2</option>
 						<option value="1.11.2">Spigot 1.11.2</option>
 						<option value="1.10.2">Spigot 1.10.2</option>
